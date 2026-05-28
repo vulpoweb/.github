@@ -18,6 +18,6 @@ Building the systems businesses run on every day — since 2012.
 
 - Website — [vulpo.be](https://vulpo.be)
 - Email — [info@vulpo.be](mailto:info@vulpo.be)
-- Phone — 09 223 10 09
+- Phone — [09 223 10 09](tel:+3292231009)
 - LinkedIn — [vulpo-webdesign](https://be.linkedin.com/company/vulpo-webdesign)
 - Address — Brusselsesteenweg 81, 9230 Wetteren
